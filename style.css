@@ -233,7 +233,7 @@ a {
 /* ====================== */
 /* main image */
 .background-img {
-  background-image: url(../images/computer.jpg);
+  background-image: url(computer.jpg);
   height: 500px;
   background-size: cover;
   background-repeat: no-repeat;

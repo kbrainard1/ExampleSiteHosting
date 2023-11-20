@@ -2,4 +2,3 @@
 
 Go to https://kbrainard1.github.io/ExampleSiteHosting/ to see what it looks like!
 
-Make some different changes!
